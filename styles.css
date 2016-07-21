@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  color: powderblue;
+  background-color: #404040;
+  border 1px solid black;
+}
+
+h2 {
+  text-align: center;
+  color: orange;
+}
+
+h3 {
+  text-align: center;
+  color: orange;
+}
+
+div.essay {
+  color: powderblue;
+  background-color: #404040;
+  margin: 20px 0 20px 0;
+  padding: 10px;
+  text-indent: 20px;
+}
